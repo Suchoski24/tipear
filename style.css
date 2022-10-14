@@ -1,0 +1,54 @@
+h1 {
+   background-image: url(https://image.freepik.com/vector-gratis/fondo-borroso-blanco_1034-249.jpg);
+    text-align: center;
+    border-color: rgb(0, 0, 0);
+    background-color:rgba(6, 192, 37, 0.397);
+     border-radius: 35px; 
+    font-family: 'Papyrus'
+    
+
+}
+
+body{
+   font-family: sans-serif;
+   background-color: rgba(255, 253, 253, 0.303);
+   background-image:url(https://avante.biz/wp-content/uploads/Blue-Picture-Photo/Blue-Picture-Photo-085.jpg);
+   text-align: center;
+}
+.highlight {
+   background-color: yellow;
+}
+
+.error {
+   background-color: lightcoral;
+   border-color: red;
+}
+#texto-tipeado{
+   width: 20%;
+  padding: 10px 15px;
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  border-radius: 35px;
+}
+#inicio{
+   
+   border-radius: 35;
+   padding: 10px 15px;
+   border-radius: 05px; 
+   font-size: 15px;
+   
+
+}
+#quote{
+   border-radius: 30px;
+   color: rgb(0, 0, 0);
+   text-align: center;
+   background-image: url(https://image.freepik.com/vector-gratis/fondo-borroso-blanco_1034-249.jpg);
+  
+}
+#message{
+   border-radius: 30px;
+   color: rgb(0, 0, 0);
+   text-align: center;
+   background-image: url(https://image.freepik.com/vector-gratis/fondo-borroso-blanco_1034-249.jpg);
+}
